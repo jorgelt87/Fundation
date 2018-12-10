@@ -1,0 +1,36 @@
+.logo-img{
+  width: 30%;
+}
+
+img .portada{
+  max-height: 329px;
+}
+switch{
+  background-color: green;
+}
+.div-1 {
+      border-right: 1px solid #cacaca;
+}
+body{
+background-image: url(../img/"cocina.jpg");
+
+}
+.fi-torso{
+  color: #fff;
+  font-size: 24px;
+}
+.icons-m{
+  width:40px;
+  border-radius: 50%;
+  padding: 0;
+  margin: 0;
+}
+.primary1{
+  background: #CBFFF6;
+}
+.secondary1{
+  background-color: #BDE0DB;
+}
+body{
+  background-color: #EEFDFB;
+}
